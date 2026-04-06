@@ -46,6 +46,19 @@ Add Employee to a particular Department
 
 <img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/11e17203-4446-448d-a791-c89a8ce1204a" />
 
+<img width="955" height="478" alt="image" src="https://github.com/user-attachments/assets/f36b2219-61b4-4b31-b478-f8f8e4f5f74e" />
+<img width="957" height="479" alt="image" src="https://github.com/user-attachments/assets/265290bc-731c-4fc5-863a-ae91558cadec" />
+
+<img width="957" height="476" alt="image" src="https://github.com/user-attachments/assets/477ac704-89bb-49f3-84d5-8e8f75c883d0" />
+
+<img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/004f8d23-e434-4239-b184-ad2015324e7f" />
+
+<img width="957" height="475" alt="image" src="https://github.com/user-attachments/assets/71d397df-4e7b-496e-a2b1-584b85a27f6b" />
+
+
+
+
+
  
 
 
